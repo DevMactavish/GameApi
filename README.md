@@ -12,7 +12,7 @@ Usage
 
 4)'api/war/begin' for Create War with gamer values
 
-5) 'api/war/makemove' for make move in fight with moveclass value
+5)'api/war/makemove' for make move in fight with moveclass value
 
 6)After ending fight 'api/war/getlog/{warId}' for fight logs
 
